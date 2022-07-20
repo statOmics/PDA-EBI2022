@@ -20,9 +20,9 @@ navbar:
       icon: fa-laptop
       menu:
       - text: Quantification - Preprocessing
-        href: pda_tutorialPreprocessing.html
+        href: cptac_robust_gui.html
       - text: Quantification - Design
-        href: pda_tutorialDesign.html
+        href: msqrob2guiTutorial.html
   right:
     - icon: fab fa-github      
       href: https://github.com/statOmics/PDA
