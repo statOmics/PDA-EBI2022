@@ -1,10 +1,9 @@
-#  Proteomics Data Analysis 2021 - PDA21
+#  Proteomics Data Analysis for EBI 2022
 
-[![Render and Deploy](https://github.com/statOmics/PDA21/workflows/Render%20and%20Deploy/badge.svg)](https://github.com/statOmics/PDA21/actions)
 
-Course site for Proteomics Data Analysis 2021 (PDA 2021)
+Course site for Proteomics Data Analysis for EBI 2022
 
-https://statomics.github.io/PDA21/
+https://statomics.github.io/PDA-EBI2022/
 
 
 ### Issues
