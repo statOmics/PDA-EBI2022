@@ -26,6 +26,14 @@ bibliography: msqrob2.bib
 This is part of the online course [Proteomics Data Analysis (PDA)](https://statomics.github.io/PDA/)
 
 
+
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/-vp7EBaur7s"
+frameborder="0"
+style="display: block; margin: auto;"
+allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ```{r, warning=FALSE, message=FALSE}
 library(tidyverse)
 library(limma)
@@ -34,12 +42,6 @@ library(msqrob2)
 library(plotly)
 library(gridExtra)
 ```
-
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/-vp7EBaur7s"
-frameborder="0"
-style="display: block; margin: auto;"
-allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 # Subset of CPTAC study: A vs B comparison in lab 3 
 

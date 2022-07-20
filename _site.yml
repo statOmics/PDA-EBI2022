@@ -14,8 +14,6 @@ navbar:
         href: pda_robustSummarisation_peptideModels.html
       - text: Quantification - Differential Abundance Analysis
         href: pda_quantification_inference.html
-      - text: Wrap-up DA - Blocking
-        href: pda_blocking_wrapup.html
     - text: "Exercises"
       icon: fa-laptop
       menu:
