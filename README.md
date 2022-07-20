@@ -3,12 +3,12 @@
 
 Course site for Proteomics Data Analysis for EBI 2022
 
-https://statomics.github.io/PDA-EBI2022/
+https://statomics.github.io/PDA22EBI/
 
 
 ### Issues
 
-If you encounter any problems related to the course material (e.g. package installation problems, bugs in the code, typos, ...), please consider [posting an issue on GitHub](https://github.com/statOmics/PDA21/issues).
+If you encounter any problems related to the course material (e.g. package installation problems, bugs in the code, typos, ...), please consider [posting an issue on GitHub](https://github.com/statOmics/PDA22EBI/issues).
 
 
 

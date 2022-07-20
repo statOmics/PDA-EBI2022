@@ -1,7 +1,7 @@
-name : "PDA"
-title : "Proteomics Data Analysis (PDA)"
+name : "PDA22EBI"
+title : "Proteomics Data Analysis 22 for EBI (PDA22EBI)"
 navbar:
-  title: "PDA"
+  title: "PDA22EBI"
   left:
     - icon: fa-home
       href: index.html
@@ -23,7 +23,7 @@ navbar:
         href: msqrob2guiTutorial.html
   right:
     - icon: fab fa-github      
-      href: https://github.com/statOmics/PDA
+      href: https://github.com/statOmics/PDA22EBI
     - text: "statOmics"
       href: http://statomics.github.io/
 output:
